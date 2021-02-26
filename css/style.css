@@ -1,0 +1,19 @@
+body{
+    background: rgb(146, 146, 146);
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 80px
+}
+a{
+    font-size: 30px
+}
+p{
+    font-size: 40px
+}
+
+p strong {
+     color: rgb(150, 0, 50); 
+}
+
+div.speciaal:hover { background: rgb(217, 255, 0); }
